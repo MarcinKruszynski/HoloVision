@@ -216,12 +216,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\nazyw\Documents\GitHub\HoloVision\HoloVision7\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{627d99fb-3e79-456d-af75-deb57d77b2c0}</Project>
+      <Project>{0c48b2ee-efa2-4764-9ead-0f3cee734ebc}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\nazyw\Documents\GitHub\HoloVision\HoloVision7\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{4b460e29-351d-4568-b5cd-cbbb168b7e55}</Project>
+      <Project>{3bd8f331-7f4f-4034-b34b-88472806a78d}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>

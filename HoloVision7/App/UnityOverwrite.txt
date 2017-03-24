@@ -5,13 +5,13 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-HoloVision1.sln: 8267B32793B163C4C137407860DF8F36
+HoloVision1.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 HoloVision1\App.cs: FF9DB22441999CF332CB319852FF71DD
-HoloVision1\HoloVision1.csproj: BFD5AAB3513440E8E62BEEC1746CF1EA
-HoloVision1\HoloVision1.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
-HoloVision1\Package.appxmanifest: 86011B0461E4DB9A45A1ADD4EDD7F478
+HoloVision1\HoloVision1.csproj: 5EB0C2393DA1A8FB9D6894D067C251B6
+HoloVision1\HoloVision1.csproj.user: modified
+HoloVision1\Package.appxmanifest: modified
 HoloVision1\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloVision1\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 HoloVision1\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
