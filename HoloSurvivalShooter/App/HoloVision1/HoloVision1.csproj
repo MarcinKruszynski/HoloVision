@@ -216,12 +216,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\HoloLens Projects\HoloSurvivalShooter\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{ad6213da-ae1e-496a-9028-afcd9a0a4e8b}</Project>
+      <Project>{ef038eb3-86e4-44ef-bd26-7db181db2a8f}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\HoloLens Projects\HoloSurvivalShooter\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{22619e45-d611-4afc-a00a-f06d3bc36abb}</Project>
+      <Project>{fbaacbd2-57a2-461e-9ed4-e78f1349f146}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>
