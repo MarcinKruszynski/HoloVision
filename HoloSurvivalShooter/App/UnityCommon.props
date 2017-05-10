@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloVision10</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\HoloLens Projects\5.6\HoloSurvivalShooter\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\HoloLens Projects\5.6\HoloSurvivalShooter\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloSurvivalShooter", "HoloSurvivalShooter.csproj", "{D615965A-80AC-1D1A-0F39-42B3FF9DF7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloSurvivalShooter.Editor", "HoloSurvivalShooter.Editor.csproj", "{A05D11D0-C7C3-48DE-9A6B-D69822963E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D615965A-80AC-1D1A-0F39-42B3FF9DF7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D615965A-80AC-1D1A-0F39-42B3FF9DF7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D615965A-80AC-1D1A-0F39-42B3FF9DF7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D615965A-80AC-1D1A-0F39-42B3FF9DF7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05D11D0-C7C3-48DE-9A6B-D69822963E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05D11D0-C7C3-48DE-9A6B-D69822963E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05D11D0-C7C3-48DE-9A6B-D69822963E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05D11D0-C7C3-48DE-9A6B-D69822963E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
